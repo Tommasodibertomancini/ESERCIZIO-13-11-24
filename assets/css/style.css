@@ -1,0 +1,50 @@
+body {
+  font-family: 'Open Sans', serif;
+  background-color: rgb(51, 198, 198);
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+}
+h1 {
+  color: blue;
+}
+
+.container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 50vw;
+  margin: 0 auto;
+}
+
+#newTask {
+  border-radius: 5px;
+  width: 80%;
+  height: 30px;
+  border-color: blue;
+}
+
+button {
+  width: 100px;
+  height: 35px;
+  border-radius: 3px;
+  font-size: 0.8em;
+  background: blue;
+  color: white;
+  padding: 10px;
+  margin-left: 20px;
+  font-weight: bold;
+  border: none;
+}
+
+li{
+    border: none;
+    text-align: start;
+    width: 100%;
+    background-color: grey;
+}
+
+
+
